@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "professors",
+  "info": {
+    "singularName": "professor",
+    "pluralName": "professors",
+    "displayName": "Professor",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "string"
+    },
+    "class": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "birthDate": {
+      "type": "datetime"
+    },
+    "picture": {
+      "type": "text"
+    }
+  }
+}
