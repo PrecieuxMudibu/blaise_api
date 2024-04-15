@@ -67,6 +67,9 @@
     },
     "phoneNumber": {
       "type": "string"
+    },
+    "password_2": {
+      "type": "string"
     }
   }
 }
