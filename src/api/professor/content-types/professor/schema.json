@@ -35,6 +35,9 @@
     },
     "picture": {
       "type": "text"
+    },
+    "employeeId": {
+      "type": "string"
     }
   }
 }
